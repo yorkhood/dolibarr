@@ -1,0 +1,12 @@
+# Dolibarr language file - Source file is en_US - bills
+# for Singapore 
+Invoice= Tax Invoice
+RelatedCommercialProposals=Related quotations
+ConfirmConvertToReduc=Do you want to convert this credit note or deposit into an absolute discount ?<br>The amount will so be saved among all discounts and could be used as a discount for a current or a future invoice for this customer.
+ConvertToReduc=Convert into future discount
+Reduction=Discount
+ReductionShort=Dist.
+Reductions=Discount
+ReductionsShort=Dist.
+ShowReduc=Show the discount
+UseCreditNoteInInvoicePayment=Reduce amount to pay with this credit
